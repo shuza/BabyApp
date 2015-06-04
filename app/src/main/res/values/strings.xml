@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Swiper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="wellccome_sms_top">Wellcome to Swiper.Press the button below to begin Swiping!</string>
+    <string name="wellcome_sms_middle">To unlock perss the Lock icon quick 4 times.</string>
+    <string name="wellcome_sms_buttom">We dont believe in showing ads to babies and toddlers so you wont find any in this app. If you would like to show you support consider purching the extra add-on pack containing moew swiping fun for your little one! Happy Swiping!!</string>
+</resources>
